@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<properties>
+    <comment>Circle properties</comment>
+    <entry key="x1">-20</entry>
+    <entry key="y1">0</entry>
+    <entry key="x2">20</entry>
+    <entry key="y2">0</entry>
+    <entry key="r">400</entry>
+    <entry key="PanelWidth">300</entry>
+    <entry key="PanelHeight">200</entry>
+</properties>
